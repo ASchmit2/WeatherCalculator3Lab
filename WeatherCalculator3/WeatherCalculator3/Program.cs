@@ -73,6 +73,5 @@ namespace WeatherCalculator3
             // Tell the user the program is ending
             Console.WriteLine("Program has ended...Thank you!");
         }
-        static int GetUserInput(string input)
     }
 }
